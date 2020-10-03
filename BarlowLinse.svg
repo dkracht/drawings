@@ -226,11 +226,11 @@
      d="m 118.25943,51.046917 c 0.44543,103.026403 0.89085,206.051873 1.33627,309.076433"
      style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.961871px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   <path
-     inkscape:original-d="m 381.50115,352.70517 c 0.67077,-85.07285 2.00929,-255.221017 2.00929,-255.221017"
+     inkscape:original-d="m 381.49975,352.70358 c 0.6717,-76.83157 2.01209,-230.49694 2.01209,-230.49694"
      inkscape:path-effect="#path-effect919"
      id="path917"
-     d="m 381.50115,352.70517 c 0.66976,-85.07286 1.33953,-170.14734 2.00929,-255.221017"
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.911395px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     d="m 381.49975,352.70358 c 0.67069,-76.83158 1.34139,-153.66463 2.01209,-230.49694"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.86673px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.888512px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 476.3784,296.29598 c 0.66812,-81.05213 1.33626,-162.10581 2.00439,-243.158718"
@@ -244,38 +244,38 @@
      d="m 584.61145,355.40686 c 0.66812,-102.66869 1.33626,-205.33936 2.00439,-308.009034"
      style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   <path
-     inkscape:original-d="M 118.35102,77.051613 C 237.44124,76.018061 475.61868,73.946307 475.61868,73.946307"
+     inkscape:original-d="m 118.35102,105.05161 c 119.09022,-1.03355 357.26766,-3.1053 357.26766,-3.1053"
      inkscape:path-effect="#path-effect954"
      id="path952"
-     d="M 118.35102,77.051613 C 237.44123,76.016502 356.52946,74.981409 475.61868,73.946307"
+     d="m 118.35102,105.05161 c 119.09021,-1.03511 238.17844,-2.0702 357.26766,-3.1053"
      style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.24321px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
   <text
      id="text1330"
-     y="68.149506"
-     x="292.64197"
+     y="99.551727"
+     x="289.96945"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      xml:space="preserve"><tspan
-       y="68.149506"
-       x="292.64197"
+       y="99.551727"
+       x="289.96945"
        id="tspan1328"
        sodipodi:role="line">f = Brennweite des Objektivs</tspan></text>
   <text
      id="text1334"
-     y="378.08377"
+     y="372.08377"
      x="379.49921"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      xml:space="preserve"><tspan
-       y="378.08377"
+       y="372.08377"
        x="379.49921"
        id="tspan1332"
        sodipodi:role="line">Barlowlinse</tspan></text>
   <text
      id="text1338"
-     y="382.83984"
+     y="374.83984"
      x="120.26383"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      xml:space="preserve"><tspan
-       y="382.83984"
+       y="374.83984"
        x="120.26383"
        id="tspan1336"
        sodipodi:role="line">Objektiv</tspan></text>
@@ -306,4 +306,26 @@
        x="-155.70253"
        id="tspan1434"
        sodipodi:role="line">Abbildungsebene</tspan></text>
+  <text
+     id="text1452"
+     y="339.41125"
+     x="259.9035"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       y="339.41125"
+       x="259.9035"
+       id="tspan1450"
+       sodipodi:role="line">M = 1 - (a/f<tspan
+   id="tspan1454"
+   style="font-size:65%;baseline-shift:sub">b</tspan>)</tspan></text>
+  <text
+     id="text1458"
+     y="392.19373"
+     x="468.36078"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       y="392.19373"
+       x="468.36078"
+       id="tspan1456"
+       sodipodi:role="line">Dietrich Kracht 03.10.2020 BarlowLinse.svg</tspan></text>
 </svg>
