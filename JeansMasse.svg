@@ -38,9 +38,9 @@
      inkscape:window-height="1017"
      id="namedview683"
      showgrid="false"
-     inkscape:zoom="0.38868324"
-     inkscape:cx="1218"
-     inkscape:cy="945.5"
+     inkscape:zoom="0.77736648"
+     inkscape:cx="720.05576"
+     inkscape:cy="1547.3438"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -1850,8 +1850,8 @@
          font-size="41px"
          transform="translate(2365.8,3289)"
          id="text529">10<tspan
-   style="font-size:65%;vertical-align:top"
-   id="tspan1247">-26</tspan></text>
+   style="font-size:65%;baseline-shift:super"
+   id="tspan1260">-26</tspan></text>
     </g>
     <g
        clip-path="url(#clip33)"
@@ -1863,8 +1863,8 @@
          font-size="41px"
          transform="translate(2634.55,3289)"
          id="text533">10<tspan
-   style="font-size:65%;vertical-align:top"
-   id="tspan1245">-24</tspan></text>
+   style="font-size:65%;baseline-shift:super"
+   id="tspan1258">-24</tspan></text>
     </g>
     <g
        clip-path="url(#clip34)"
@@ -1877,7 +1877,8 @@
          transform="translate(2903.3,3289)"
          id="text537">10<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan1243">-22</tspan></text>
+   id="tspan1243"
+   dy="0 1">-22</tspan></text>
     </g>
     <g
        clip-path="url(#clip35)"
@@ -1890,7 +1891,8 @@
          transform="translate(3172.05,3289)"
          id="text541">10<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan1241">-20</tspan></text>
+   id="tspan1256"
+   dy="0.5">-20</tspan></text>
     </g>
     <g
        clip-path="url(#clip36)"
@@ -1900,8 +1902,8 @@
          font-family="Calibri, Calibri_MSFontService, sans-serif"
          font-weight="400"
          font-size="41px"
-         transform="translate(3440.8,3289)"
-         id="text545">10<tspan
+         id="text545"
+         transform="translate(3440.8,3289)">10<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan1239">-18</tspan></text>
     </g>
@@ -1914,9 +1916,10 @@
          font-weight="400"
          font-size="41px"
          transform="translate(3709.55,3289)"
-         id="text549">10<tspan
+         id="text549"
+         dy="0 0 0.5">10-16<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan1237">-16</tspan></text>
+   id="tspan1237" /></text>
     </g>
     <g
        clip-path="url(#clip38)"
