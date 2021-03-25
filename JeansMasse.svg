@@ -38,9 +38,9 @@
      inkscape:window-height="1017"
      id="namedview683"
      showgrid="false"
-     inkscape:zoom="0.77736648"
-     inkscape:cx="720.05576"
-     inkscape:cy="1547.3438"
+     inkscape:zoom="0.54968111"
+     inkscape:cx="1368.5413"
+     inkscape:cy="537.13504"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -48,6 +48,18 @@
      inkscape:document-rotation="0" />
   <defs
      id="defs209">
+    <rect
+       x="3605.963"
+       y="1769.0464"
+       width="633.09434"
+       height="43.661679"
+       id="rect1267" />
+    <rect
+       x="3154.2109"
+       y="1892.2503"
+       width="7.7183673"
+       height="29.587075"
+       id="rect1261" />
     <rect
        x="3462.9456"
        y="3441.0694"
@@ -692,13 +704,6 @@
      clip-path="url(#clip0)"
      transform="translate(-1945 -1689)"
      id="g679">
-    <rect
-       x="1938.2816"
-       y="1651.4082"
-       width="2433"
-       height="1888"
-       fill="#ffffff"
-       id="rect211" />
     <g
        clip-path="url(#clip1)"
        id="g215">
@@ -1917,9 +1922,9 @@
          font-size="41px"
          transform="translate(3709.55,3289)"
          id="text549"
-         dy="0 0 0.5">10-16<tspan
+         dy="0 0 0.5">10<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan1237" /></text>
+   id="tspan1257">-16</tspan></text>
     </g>
     <g
        clip-path="url(#clip38)"
@@ -2338,7 +2343,19 @@
            style="font-size:65%;baseline-shift:super">7</tspan><tspan
            style="font-size:42.6667px"> bis 10</tspan><tspan
            style="font-size:65%;baseline-shift:super">0</tspan><tspan
-           style="font-size:42.6667px"> Sonnenmassen</tspan></tspan></text>
+           style="font-size:42.6667px"> Sonnenmassen
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="2513.5859"
+         y="1940.291"><tspan
+           dx="0 16.645845 26.145853 22.229183 27.083351 16.645844 13.562515"
+           style="font-size:42.6667px">(asd) 
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="2513.5859"
+         y="1993.6244"><tspan
+           dx="0 16.645845 26.958353 25.250019 27.083351 26.104187 27.041695 26.250015 27.041687 16.729172 22.229187 13.562515 26.145844 16.604187 26.250031 13.5625 27.083344 26.250031 22.229187 16.729156 13.562531 22.229187 27.041687 26.104156 34.895874 27.041687 13.5625 34.895874 11.854187 16.729187 27.041687 13.5625 29.791687 27.041687 16.604187 26.104187 41.5625 26.250061"
+           style="font-size:42.6667px">(Exponents are best shown with Chrome)</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text1530"
@@ -2347,5 +2364,16 @@
          x="3477.7949"
          y="3466.0495"><tspan
            style="font-size:32px">Dietrich Kracht 24.3.2021 Excel-Diagramm</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1259"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:26.66666667px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'sans-serif, Normal';font-stretch:normal;font-variant:normal;text-align:center;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;white-space:pre;shape-inside:url(#rect1261)" />
+    <text
+       xml:space="preserve"
+       id="text1265"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect1267);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+         x="3656.6175"
+         y="1792.6407"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">Exponents are best shown with Chrome</tspan></tspan></text>
   </g>
 </svg>
