@@ -111,7 +111,7 @@
    id="namedview162"
    showgrid="false"
    inkscape:zoom="1"
-   inkscape:cx="-174.42603"
+   inkscape:cx="48.670068"
    inkscape:cy="207.61373"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
@@ -254,24 +254,8 @@
    stroke-width="0.5"
    stroke-dasharray="1,2"
    d="M273.306,167.636  c6.131,0.541,16.112,1.742,21.981,2.465"
-   id="path126" /><svg:path
-   style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   d="m -945,148.01166 c 5,31.00001 8,45.00001 30,64.00001 36.78191,31.76619 75,46 132,57 57,11 89,11 89,11"
-   id="path4208"
-   inkscape:connector-curvature="0"
-   sodipodi:nodetypes="cssc" />
-   <svg:text
-   xml:space="preserve"
-   style="font-style:normal;font-weight:normal;font-size:40px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   id="text4210"
-   x="206"
-   y="57"
-   transform="translate(906,29)">
-   <svg:textPath
-   xlink:href="#path4208"
-   id="textPath4214"
-   style="font-size:20px">                      Horizont</svg:textPath>
-	 </svg:text>
+   id="path126" />
+   
 	
    <svg:text
    xml:space="preserve"
@@ -364,15 +348,28 @@
      x="193"
      y="161.56799"
      style="font-size:20px;line-height:1.25">West</svg:tspan></svg:text>
-<svg:text
+<svg:path
+   style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="m -50,175 c 5,31.00001 8,45.00001 30,64.00001 36.78191,31.76619 75,46 132,57 57,11 89,11 89,11"
+   id="path4208"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="cssc" /><svg:text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   id="text4210"
+   x="3042"
+   y="150.98834">    <svg:textPath
+   xlink:href="#path4208"
+   id="textPath4214"
+   style="font-size:20px">                      Horizont</svg:textPath>	 </svg:text><svg:text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   x="9"
+   x="7"
    y="230.56799"
    id="text4442"><svg:tspan
      sodipodi:role="line"
      id="tspan4444"
-     x="9"
+     x="7"
      y="230.56799"
      style="font-size:22.5px;line-height:1.25">S</svg:tspan></svg:text>
 <svg:text
