@@ -17,22 +17,35 @@
    enable-background="new 0 0 442.287 418.568"
    xml:space="preserve"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
-   sodipodi:docname="Azimut_altitude2.svg"><svg:ellipse
+   sodipodi:docname="Azimut_altitude2.svg">
+   <svg:ellipse
    cx="220.886"
    cy="224.26801"
    rx="191.797"
    ry="60.845001"
    id="ellipse10"
-   style="fill:#e8e8e8" /><svg:metadata
+   style="fill:#e8e8e8" />
+   <svg:metadata
    id="metadata166"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></svg:metadata><svg:defs
-   id="defs164"><svg:rect
+   id="defs164"><inkscape:path-effect
+   effect="bspline"
+   id="path-effect897"
+   is_visible="true"
+   lpeversion="1"
+   weight="33.333333"
+   steps="2"
+   helper_size="0"
+   apply_no_weight="true"
+   apply_with_weight="true"
+   only_selected="false" /><svg:rect
    x="-732"
    y="275"
    width="195"
    height="60"
-   id="rect961" /><inkscape:path-effect
+   id="rect961" />
+   <inkscape:path-effect
    effect="bspline"
    id="path-effect942"
    is_visible="true"
@@ -83,7 +96,8 @@
    apply_no_weight="true"
    apply_with_weight="true"
    only_selected="false" />
-</svg:defs><sodipodi:namedview
+</svg:defs>
+<sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -103,7 +117,8 @@
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
    inkscape:current-layer="Layer_1"
-   inkscape:document-rotation="0" /><svg:linearGradient
+   inkscape:document-rotation="0" />
+   <svg:linearGradient
    id="SVGID_1_"
    gradientUnits="userSpaceOnUse"
    x1="7.4038"
@@ -125,12 +140,13 @@
    style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    x="201"
    y="306.56799"
-   id="text4438"><svg:tspan
-     sodipodi:role="line"
-     id="tspan4440"
-     x="201"
-     y="306.56799"
-     style="font-size:20px;line-height:1.25">Ost</svg:tspan></svg:text>
+   id="text4438">
+   <svg:tspan
+   sodipodi:role="line"
+   id="tspan4440"
+   x="201"
+   y="306.56799"
+   style="font-size:20px;line-height:1.25">Ost</svg:tspan></svg:text>
 <svg:path
    fill="#FFFFFF"
    d="M328.983,226.271c0,17.756-1.348,34.95-3.869,51.271c53.215-10.814,88.486-29.738,88.486-51.273h-84.617  V226.271z"
@@ -243,43 +259,46 @@
    d="m -945,148.01166 c 5,31.00001 8,45.00001 30,64.00001 36.78191,31.76619 75,46 132,57 57,11 89,11 89,11"
    id="path4208"
    inkscape:connector-curvature="0"
-   sodipodi:nodetypes="cssc" /><svg:text
+   sodipodi:nodetypes="cssc" />
+   <svg:text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:40px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    id="text4210"
    x="206"
    y="57"
-   transform="translate(906,29)"><svg:textPath
-     xlink:href="#path4208"
-     id="textPath4214"
-     style="font-size:20px">                      Horizont</svg:textPath></svg:text><svg:path
-   style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   d="m -315,322 c 1.66662,-31.33239 3.33328,-62.66573 -0.99988,-90.99918 C -320.33305,202.66737 -330.66618,177.33454 -341,152"
-   id="path900"
-   inkscape:path-effect="#path-effect902"
-   inkscape:original-d="m -315,322 c 1.66767,-31.33233 3.33433,-62.66567 5,-94 -10.33254,-25.33284 -20.66567,-50.66567 -31,-76"
-   sodipodi:nodetypes="ccc" /><svg:text
+   transform="translate(906,29)">
+   <svg:textPath
+   xlink:href="#path4208"
+   id="textPath4214"
+   style="font-size:20px">                      Horizont</svg:textPath>
+	 </svg:text>
+	
+   <svg:text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    id="text906"
-   transform="translate(636,-33)"><svg:textPath
-     xlink:href="#path900"
-     startOffset="50%"
-     id="textPath908"
-     style="font-size:21.3333px">Altitude</svg:textPath></svg:text><head /><svg:flowRoot
+   transform="translate(636,-33)"
+   x="-315.42902"
+   y="235.00804">Altitude
+	 </svg:text>
+	 <head />
+	 <svg:flowRoot
    xml:space="preserve"
    id="flowRoot4314"
    style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   transform="translate(270.62323,-263.06333)"><svg:flowRegion
-     id="flowRegion4316"><svg:rect
-       id="rect4318"
-       width="109.96279"
-       height="35.471867"
-       x="-399.05847"
-       y="-214.60478"
-       style="font-size:30px" /></svg:flowRegion><svg:flowPara
-     id="flowPara4320"
-     style="font-size:25px;line-height:1.25">Zenit</svg:flowPara></svg:flowRoot><svg:path
+   transform="translate(270.62323,-263.06333)">
+   <svg:flowRegion
+   id="flowRegion4316"><svg:rect
+     id="rect4318"
+     width="109.96279"
+     height="35.471867"
+     x="-399.05847"
+     y="-214.60478"
+     style="font-size:30px" /></svg:flowRegion>
+	   <svg:flowPara
+   id="flowPara4320"
+   style="font-size:25px;line-height:1.25">Zenit</svg:flowPara></svg:flowRoot>
+	 <svg:path
    style="opacity:0.5;fill:#f0f0f0;fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:4, 8;stroke-dashoffset:0"
    id="path4343"
    sodipodi:type="arc"
@@ -293,14 +312,16 @@
    id="path4362"
    d="M221.804,34.471c105.926,0,191.797,85.869,191.797,191.797  c0,105.926-85.871,191.801-191.797,191.801c-105.931,0-191.801-85.875-191.801-191.801C30.003,120.34,115.873,34.471,221.804,34.471  z"
    stroke="#000000"
-   fill="none" /><svg:text
+   fill="none" />
+   <svg:text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:40px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    id="text4364"
    transform="translate(493,106)"><svg:textPath
-     xlink:href="#path76"
-     id="textPath4368"
-     style="font-size:20px">          Meridian</svg:textPath></svg:text>
+   xlink:href="#path76"
+   id="textPath4368"
+   style="font-size:20px">          Meridian</svg:textPath>
+	 </svg:text>
 <svg:path
    id="path4371"
    d="M325.722,277.432c-29.926,6.125-65.572,9.681-103.836,9.681  c-105.928,0-191.797-27.24-191.797-60.845c0-33.602,85.868-60.842,191.797-60.842c17.811,0,35.053,0.768,51.418,2.209"
@@ -321,7 +342,8 @@
        x="-295"
        y="-399.43201" /></svg:flowRegion><svg:flowPara
      id="flowPara4409"
-     style="font-size:40px;line-height:1.25"> </svg:flowPara></svg:flowRoot><svg:text
+     style="font-size:40px;line-height:1.25"> </svg:flowPara></svg:flowRoot>
+	 <svg:text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
    x="194"
@@ -369,17 +391,28 @@
    style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1,6;stroke-dashoffset:0"
    d="M 223,226.56799 C 221,34.567993 221,34.567993 221,34.567993"
    id="path4223"
-   inkscape:connector-curvature="0" /><svg:path
-   style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   d="m -407,206 c 31.66743,-6.66683 63.33346,-13.33336 88.33377,-21.33354 25.00032,-8.00018 43.33329,-17.33333 57.49981,-28.33329 C -246.9999,145.33321 -237.0001,132.6668 -227,120"
-   id="path940"
-   sodipodi:nodetypes="cccc"
-   inkscape:original-d="m -407,206 c 31.66767,-6.66567 63.3337,-13.3322 95,-20 18.3347,-9.33252 36.66767,-18.66567 55,-28 10.0012,-12.66592 20.001,-25.33233 30,-38"
-   inkscape:path-effect="#path-effect942" /><svg:text
+   inkscape:connector-curvature="0" />
+   <svg:text
    xml:space="preserve"
    id="text959"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   transform="translate(679,78)"><svg:textPath
-     xlink:href="#path940"
+   transform="translate(679,78)"
+   x="-307.53494"
+   y="180.85735">Azimut</svg:text>
+	 <svg:path
+   style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="m -666,87 c 0.33337,9.001035 0.66671,18.00104 4.50058,26.33444 3.83388,8.3334 11.16706,15.99991 24.33403,24.33311 13.16697,8.3332 32.16659,17.33302 55.33352,24.9996 23.16692,7.66658 50.49971,13.99979 78.33325,17.333 27.83353,3.3332 56.1663,3.66653 70.83289,4.50043 14.66659,0.8339 15.66657,2.16721 16.66573,3.49942"
+   id="path895"
+   inkscape:path-effect="#path-effect897"
+   inkscape:original-d="m -666,87 c 0.33433,9.001 0.66767,18.001 1,27 7.33448,7.66782 14.66767,15.33433 22,23 19.00138,9.00118 38.001,18.001 57,27 27.33488,6.33446 54.66767,12.66767 82,19 28.3349,0.33434 56.66767,0.66767 85,1 1.00102,1.33436 2.001,2.66767 3,4" /><svg:text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   id="text901"
+   x="694"
+   y="178"
+   transform="translate(630,192)"><svg:textPath
+     xlink:href="#path895"
      startOffset="50%"
-     id="textPath965">Azimut</svg:textPath></svg:text></svg:svg>
+     id="textPath903"><svg:tspan
+       id="tspan899"
+       style="font-size:21.3333px">Horizont</svg:tspan></svg:textPath></svg:text></svg:svg>
