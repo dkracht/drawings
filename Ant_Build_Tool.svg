@@ -297,7 +297,7 @@
       <g class="com.sun.star.drawing.TextShape">
        <g id="id27">
         <rect class="BoundingBox" stroke="none" fill="none" x="12000" y="9650" width="8001" height="701"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="13899" y="10131"><tspan fill="rgb(0,0,0)" stroke="none">Ant_:Build_Tool.vsd 2004-05-30 Dietrich Kracht</tspan></tspan></tspan></text>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="13899" y="10131"><tspan fill="rgb(0,0,0)" stroke="none">Ant_:Build_Tool.svg 2004-05-30 Dietrich Kracht</tspan></tspan></tspan></text>
        </g>
       </g>
      </g>
