@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" id="body" width="350" height="350">
+  <title>SVG flowPara Example.</title>
+  <g>
+    <rect stroke="blue" fill="gold" x="10" y="10" width="200" height="300"/>
+    <flowRoot>
+      <flowRegion>
+        <rect stroke="blue" fill="gold" x="10" y="10" width="200" height="300"/>
+      </flowRegion>
+      <flowDiv>
+        <flowPara font-family="Arial" font-size="20" fill="#000000" text-align="start">
+                  FP1 The quick brown fox jumped over the lazy dog.</flowPara>
+        <flowPara font-family="Arial" font-size="20" fill="#000000" text-align="start">
+                  FP2 Gallia est omnis divisa in partes tres quarum unam incolunt Belgae.</flowPara>
+        <flowPara font-family="Arial" font-size="20" fill="#000000" text-align="start">
+                  FP3 a b c d e f g h i j k l m n o p q r s t u v w x y z</flowPara>
+      </flowDiv>
+    </flowRoot>
+  </g>
+</svg> 
