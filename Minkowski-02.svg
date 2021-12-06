@@ -9,12 +9,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="420px"
-   viewBox="-0.5 -0.5 420 419"
-   style="max-width:100%;max-height:419px;"
+   width="115mm"
+   viewBox="-0.5 -0.5 434.64576 415.74804"
    id="svg2"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
-   sodipodi:docname="Minkowski-02.svg">
+   sodipodi:docname="Minkowski-02.svg"
+   height="110mm">
   <metadata
      id="metadata52">
     <rdf:RDF>
@@ -46,8 +46,11 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
-     inkscape:document-rotation="0" />
+     inkscape:current-layer="g36"
+     inkscape:document-rotation="0"
+     units="mm"
+     width="296mm"
+     inkscape:document-units="mm" />
   <defs
      id="defs4" />
   <path
@@ -192,7 +195,7 @@
        font-family="Helvetica"
        font-size="10px"
        id="text40"
-       style="line-height:0%">Minkowski-02.svg Dietrich Kracht 13.2.2020</text>
+       style="line-height:0%">Minkowski-02.svg Dietrich Kracht 06.12.2021</text>
   </g>
   <path
      d="m 66.33687,63.673731 280,279.999999"
