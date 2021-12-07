@@ -195,7 +195,7 @@
        font-family="Helvetica"
        font-size="10px"
        id="text40"
-       style="line-height:0%">Minkowski-02.svg Dietrich Kracht 06.12.2021</text>
+       style="line-height:0%">Minkowski-02.svg Dietrich Kracht 07.12.2021</text>
   </g>
   <path
      d="m 66.33687,63.673731 280,279.999999"
@@ -210,26 +210,26 @@
      x="308.99316"
      y="187.05956"
      id="text884"><tspan
-       sodipodi:role="line"
-       id="tspan882"
-       x="308.99316"
-       y="187.05956"
-       style="font-size:16px"><tspan
+   id="tspan882"
+   x="308.99316"
+   y="187.05956"
+   style="font-size:16px"><tspan
    style="font-size:13.3333px"
    id="tspan954">S</tspan><tspan
-   style="font-size:65%;baseline-shift:super"
-   id="tspan890">2</tspan>&gt;0</tspan></text>
+   style="font-size:65%"
+   id="tspan890">3</tspan>&gt;0</tspan>   </text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="248.14853"
      y="105.66855"
-     id="text888"><tspan
-       sodipodi:role="line"
+     id="text888"
+     inkscape:transform-center-x="2.5108288"
+     inkscape:transform-center-y="-0.6277072"><tspan
        id="tspan886"
        x="248.14853"
        y="105.66855"
-       style="font-size:16px"><tspan
+       style="font-size:16px">	    <tspan
    style="font-size:13.3333px"
    id="tspan952">S</tspan><tspan
    style="font-size:65%;baseline-shift:super"
@@ -239,12 +239,13 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="241.24374"
      y="302.7374"
-     id="text898"><tspan
-       sodipodi:role="line"
-       id="tspan896"
-       x="241.24374"
-       y="302.7374"
-       style="font-size:16px"><tspan
+     id="text898">
+	 <tspan
+   id="tspan896"
+   x="241.24374"
+   y="302.7374"
+   style="font-size:16px">
+	   <tspan
    style="font-size:13.3333px"
    id="tspan962">S</tspan><tspan
    style="font-size:65%;baseline-shift:super"
@@ -252,25 +253,23 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="178.96243"
-     y="300.74658"
+     x="163.26976"
+     y="304.51282"
      id="text904"><tspan
-       sodipodi:role="line"
-       id="tspan902"
-       x="178.96243"
-       y="300.74658"
-       style="font-size:16px"><tspan
+   id="tspan902"
+   x="163.26976"
+   y="304.51282"
+   style="font-size:16px">	    <tspan
    style="font-size:13.3333px"
    id="tspan960">S</tspan><tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan900">2</tspan>&lt;0</tspan></text>
+   id="tspan900">2</tspan>&lt;0</tspan>   </text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="170.38994"
      y="105.04084"
      id="text910"><tspan
-       sodipodi:role="line"
        id="tspan908"
        x="170.38994"
        y="105.04084"
@@ -285,7 +284,6 @@
      x="96.934441"
      y="233.42514"
      id="text916"><tspan
-       sodipodi:role="line"
        id="tspan914"
        x="96.934441"
        y="233.42514"
@@ -300,7 +298,6 @@
      x="98.709869"
      y="187.91031"
      id="text922"><tspan
-       sodipodi:role="line"
        id="tspan920"
        x="98.709869"
        y="187.91031"
@@ -315,7 +312,6 @@
      x="309.62088"
      y="241.78992"
      id="text928"><tspan
-       sodipodi:role="line"
        id="tspan926"
        x="309.62088"
        y="241.78992"
@@ -330,7 +326,6 @@
      x="296.88348"
      y="390.09323"
      id="text948"><tspan
-       sodipodi:role="line"
        id="tspan946"
        x="296.88348"
        y="390.09323" /></text>
@@ -340,15 +335,14 @@
      x="77.273888"
      y="342.80298"
      id="text980"><tspan
-       sodipodi:role="line"
-       id="tspan978"
-       x="77.273888"
-       y="342.80298"
-       style="font-size:16px"><tspan
+   id="tspan978"
+   x="77.273888"
+   y="342.80298"
+   style="font-size:16px">	    <tspan
    style="font-size:13.3333px"
    id="tspan974">S</tspan><tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan976">2</tspan>=0</tspan></text>
+   id="tspan976">2</tspan>=0</tspan>	   </text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
