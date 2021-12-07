@@ -208,34 +208,21 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="241.24374"
-     y="302.7374"
-     id="text898">	  <tspan
-   id="tspan896"
-   x="241.24374"
-   y="302.7374"
-   style="font-size:16px">	  a<tspan
-   style="font-size:65%"
-   dy="-7"
-   id="tspan894">2</tspan><tspan
-   style="font-size:100%"
-   dy="7"
-   id="tspan23">&lt;0</tspan> </tspan> </text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="170.38994"
      y="105.04084"
-     id="text910"><tspan
+     id="text910">	  <tspan
    id="tspan908"
    x="170.38994"
    y="105.04084"
-   style="font-size:16px"><tspan
+   style="font-size:16px">	<tspan
    style="font-size:13.3333px"
-   id="tspan950">s</tspan><tspan
-   style="font-size:65%;baseline-shift:super"
-   id="tspan906">2</tspan>&lt;0</tspan>
-   </text>
+   id="tspan950">x</tspan><tspan
+   style="font-size:65%"
+   dy="-7"
+   id="tspan906">2</tspan><tspan
+   style="font-size:100%"
+   dy="7"
+   id="tspan28">&lt;0</tspan></tspan> </text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -483,20 +470,6 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="260.15207"
-     y="106.29626"
-     id="text179"><tspan
-   id="tspan177"
-   x="260.15207"
-   y="106.29626"
-   style="font-size:16px"><tspan
-   style="font-size:13.3333px"
-   id="tspan173">s</tspan><tspan
-   style="font-size:65%;baseline-shift:super"
-   id="tspan175">2</tspan>&lt;0</tspan>   </text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="306.48233"
      y="187.8071"
      id="text267"><tspan
@@ -511,17 +484,55 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="164.66347"
-     y="304.62051"
-     id="text9137">	  <tspan
-   id="tspan9135"
-   x="164.66347"
-   y="304.62051"
-   style="font-size:16px">	  a<tspan
+     x="234.41606"
+     y="105.04084"
+     id="text1318">	  <tspan
+   id="tspan1316"
+   x="234.41606"
+   y="105.04084"
+   style="font-size:16px">	<tspan
+   style="font-size:13.3333px"
+   id="tspan1310">x</tspan><tspan
    style="font-size:65%"
    dy="-7"
-   id="tspan9131">2</tspan><tspan
+   id="tspan1312">2</tspan><tspan
    style="font-size:100%"
    dy="7"
-   id="tspan9133">&lt;0</tspan> </tspan> </text>
+   id="tspan1314">&lt;0</tspan></tspan> </text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="235.04378"
+     y="304.02402"
+     id="text1408">	  <tspan
+   id="tspan1406"
+   x="235.04378"
+   y="304.02402"
+   style="font-size:16px">	<tspan
+   style="font-size:13.3333px"
+   id="tspan1400">x</tspan><tspan
+   style="font-size:65%"
+   dy="-7"
+   id="tspan1402">2</tspan><tspan
+   style="font-size:100%"
+   dy="7"
+   id="tspan1404">&lt;0</tspan></tspan> </text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="176.03931"
+     y="304.6517"
+     id="text1498">	  <tspan
+   id="tspan1496"
+   x="176.03931"
+   y="304.6517"
+   style="font-size:16px">	<tspan
+   style="font-size:13.3333px"
+   id="tspan1490">x</tspan><tspan
+   style="font-size:65%"
+   dy="-7"
+   id="tspan1492">2</tspan><tspan
+   style="font-size:100%"
+   dy="7"
+   id="tspan1494">&lt;0</tspan></tspan> </text>
 </svg>
