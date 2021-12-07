@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -215,9 +215,9 @@
    y="187.05956"
    style="font-size:16px"><tspan
    style="font-size:13.3333px"
-   id="tspan954">S</tspan><tspan
-   style="font-size:65%"
-   id="tspan890">3</tspan>&gt;0</tspan>   </text>
+   id="tspan954">s</tspan><tspan
+   style="font-size:65%;baseline-shift:50%"
+   id="tspan890">3</tspan>&gt;0</tspan>      </text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -225,15 +225,18 @@
      y="105.66855"
      id="text888"
      inkscape:transform-center-x="2.5108288"
-     inkscape:transform-center-y="-0.6277072"><tspan
-       id="tspan886"
-       x="248.14853"
-       y="105.66855"
-       style="font-size:16px">	    <tspan
+     inkscape:transform-center-y="-0.6277072">
+	 <tspan
+   id="tspan886"
+   x="248.14853"
+   y="105.66855"
+   style="font-size:16px">	    
+   <tspan
    style="font-size:13.3333px"
-   id="tspan952">S</tspan><tspan
-   style="font-size:65%;baseline-shift:super"
-   id="tspan892">2</tspan>&lt;0</tspan></text>
+   id="tspan952">s</tspan><tspan
+   style="font-size:65%;baseline-shift:50%"
+   id="tspan892">2</tspan>&lt;0</tspan>   
+   </text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -261,7 +264,8 @@
    y="304.51282"
    style="font-size:16px">	    <tspan
    style="font-size:13.3333px"
-   id="tspan960">S</tspan><tspan
+   id="tspan960">s</tspan>
+   <tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan900">2</tspan>&lt;0</tspan>   </text>
   <text
@@ -275,9 +279,10 @@
        y="105.04084"
        style="font-size:16px"><tspan
    style="font-size:13.3333px"
-   id="tspan950">S</tspan><tspan
+   id="tspan950">s</tspan><tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan906">2</tspan>&lt;0</tspan></text>
+   id="tspan906">2</tspan>&lt;0</tspan>
+   </text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -289,9 +294,10 @@
        y="233.42514"
        style="font-size:16px"><tspan
    style="font-size:13.3333px"
-   id="tspan958">S</tspan><tspan
+   id="tspan958">s</tspan><tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan912">2</tspan>&gt;0</tspan></text>
+   id="tspan912">2</tspan>&gt;0</tspan>
+   </text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -303,9 +309,10 @@
        y="187.91031"
        style="font-size:16px"><tspan
    style="font-size:13.3333px"
-   id="tspan956">S</tspan><tspan
+   id="tspan956">s</tspan><tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan918">2</tspan>&gt;0</tspan></text>
+   id="tspan918">2</tspan>&gt;0</tspan>
+   </text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
