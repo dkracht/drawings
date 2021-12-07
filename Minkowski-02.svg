@@ -214,11 +214,12 @@
    id="tspan882"
    x="308.99316"
    y="187.05956"
-   style="font-size:16px">    <tspan
+   style="font-size:16px">            <tspan
    style="font-size:13.3333px"
    id="tspan954">s</tspan><tspan
    style="font-size:65%"
-   id="tspan23">3</tspan>&gt;0</tspan>         </text>
+   vertical-align="super"
+   id="tspan23">3</tspan>&gt;0</tspan>              </text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -230,11 +231,9 @@
    id="tspan886"
    x="248.14853"
    y="105.66855"
-   style="font-size:16px">	        <tspan
-   style="font-size:13.3333px"
-   id="tspan952">s</tspan><tspan
+   style="font-size:16px">	        s<tspan
    style="font-size:65%"
-   id="tspan28">4</tspan>&lt;0</tspan>      </text>
+   id="tspan28">4</tspan>&lt;0</tspan>        </text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -246,7 +245,8 @@
    y="302.7374"
    style="font-size:16px">	    s<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan894">2</tspan>&lt;0</tspan>   </text>
+   id="tspan894">2</tspan>&lt;0</tspan>  
+   </text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
