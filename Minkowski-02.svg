@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:xhtml="http://www.w3.org/1999/xhtml"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="115mm"
    viewBox="-0.5 -0.5 434.64576 415.74804"
    id="svg2"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="Minkowski-02.svg"
-   height="110mm">
+   height="110mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <metadata
      id="metadata52">
     <rdf:RDF>
@@ -41,8 +41,8 @@
      id="namedview50"
      showgrid="false"
      inkscape:zoom="1.5930998"
-     inkscape:cx="210"
-     inkscape:cy="234.60828"
+     inkscape:cx="209.96801"
+     inkscape:cy="234.44859"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -50,7 +50,8 @@
      inkscape:document-rotation="0"
      units="mm"
      width="296mm"
-     inkscape:document-units="mm" />
+     inkscape:document-units="mm"
+     inkscape:pagecheckerboard="0" />
   <defs
      id="defs4" />
   <path
@@ -209,15 +210,15 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="308.99316"
      y="187.05956"
-     id="text884">
-	 <tspan
+     id="text884">	  <tspan
    id="tspan882"
    x="308.99316"
    y="187.05956"
-   style="font-size:16px">
-   <tspan   style="font-size:13.3333px" id="tspan954">s</tspan>
-   <tspan style="font-size:65%;baseline-shift:125%" id="tspan890">3</tspan>&gt;0</tspan>      
-   </text>
+   style="font-size:16px">    <tspan
+   style="font-size:13.3333px"
+   id="tspan954">s</tspan><tspan
+   style="font-size:65%"
+   id="tspan23">3</tspan>&gt;0</tspan>         </text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -225,32 +226,27 @@
      y="105.66855"
      id="text888"
      inkscape:transform-center-x="2.5108288"
-     inkscape:transform-center-y="-0.6277072">
-	 <tspan
+     inkscape:transform-center-y="-0.6277072">	  <tspan
    id="tspan886"
    x="248.14853"
    y="105.66855"
-   style="font-size:16px">	    
-   <tspan style="font-size:13.3333px" id="tspan952">s</tspan>
-   <tspan style="font-size:65%;baseline-shift:90%" id="tspan892">2</tspan>&lt;0</tspan>   
-   </text>
+   style="font-size:16px">	        <tspan
+   style="font-size:13.3333px"
+   id="tspan952">s</tspan><tspan
+   style="font-size:65%"
+   id="tspan28">4</tspan>&lt;0</tspan>      </text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="241.24374"
      y="302.7374"
-     id="text898">
-	 <tspan
+     id="text898">	  <tspan
    id="tspan896"
    x="241.24374"
    y="302.7374"
-   style="font-size:16px">
-	   <tspan
-   style="font-size:13.3333px"
-   id="tspan962">S</tspan><tspan
+   style="font-size:16px">	    s<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan894">2</tspan>&lt;0</tspan>
-   </text>
+   id="tspan894">2</tspan>&lt;0</tspan>   </text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -317,10 +313,10 @@
      x="309.62088"
      y="241.78992"
      id="text928"><tspan
-       id="tspan926"
-       x="309.62088"
-       y="241.78992"
-       style="font-size:16px"><tspan
+   id="tspan926"
+   x="309.62088"
+   y="241.78992"
+   style="font-size:16px"><tspan
    style="font-size:13.3333px"
    id="tspan964">s</tspan><tspan
    style="font-size:65%;baseline-shift:super"
@@ -356,11 +352,11 @@
      x="382.33954"
      y="44.642113"
      id="text988"><tspan
-       sodipodi:role="line"
-       id="tspan986"
-       x="382.33954"
-       y="44.642113"
-       style="font-size:16px"><tspan
+   sodipodi:role="line"
+   id="tspan986"
+   x="382.33954"
+   y="44.642113"
+   style="font-size:16px"><tspan
    style="font-size:13.3333px"
    id="tspan982">s</tspan><tspan
    style="font-size:65%;baseline-shift:super"
@@ -372,11 +368,11 @@
      x="362.88062"
      y="358.49564"
      id="text996"><tspan
-       sodipodi:role="line"
-       id="tspan994"
-       x="362.88062"
-       y="358.49564"
-       style="font-size:16px"><tspan
+   sodipodi:role="line"
+   id="tspan994"
+   x="362.88062"
+   y="358.49564"
+   style="font-size:16px"><tspan
    style="font-size:13.3333px"
    id="tspan990">s</tspan><tspan
    style="font-size:65%;baseline-shift:super"
@@ -388,11 +384,11 @@
      x="63.46434"
      y="63.473324"
      id="text1004"><tspan
-       sodipodi:role="line"
-       id="tspan1002"
-       x="63.46434"
-       y="63.473324"
-       style="font-size:16px"><tspan
+   sodipodi:role="line"
+   id="tspan1002"
+   x="63.46434"
+   y="63.473324"
+   style="font-size:16px"><tspan
    style="font-size:13.3333px"
    id="tspan998">s</tspan><tspan
    style="font-size:65%;baseline-shift:super"
@@ -411,11 +407,11 @@
      x="210.92043"
      y="77.33567"
      id="text1008"><tspan
-       id="tspan1006"
-       x="210.92043"
-       y="77.33567"
-       sodipodi:role="line"
-       style="font-size:16px">raumartig</tspan>
+   id="tspan1006"
+   x="210.92043"
+   y="77.33567"
+   sodipodi:role="line"
+   style="font-size:16px">raumartig</tspan>
 	</text>
   <rect
      style="fill:#ffffff;fill-opacity:1;stroke:#d79bf8;stroke-width:0.109606;stroke-linecap:square;stroke-opacity:1"
