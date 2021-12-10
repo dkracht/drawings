@@ -13,8 +13,7 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata52">
     <rdf:RDF>
@@ -41,7 +40,7 @@
      id="namedview50"
      showgrid="false"
      inkscape:zoom="1.5930998"
-     inkscape:cx="209.96801"
+     inkscape:cx="57.74905"
      inkscape:cy="234.44859"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -95,39 +94,6 @@
      stroke="none"
      pointer-events="all"
      id="rect16" />
-  <g
-     transform="translate(13.937263,2.6385354)"
-     id="g18">
-    <switch
-       id="switch20">
-      <foreignObject
-         style="overflow: visible; text-align: left;"
-         pointer-events="none"
-         width="100%"
-         height="100%"
-         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-        <xhtml:div
-           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 218px; margin-left: 371px;">
-          <xhtml:div
-             style="box-sizing: border-box; font-size: 0; text-align: center; ">
-            <xhtml:div
-               style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">x
- </xhtml:div>
-          </xhtml:div>
-        </xhtml:div>
-      </foreignObject>
-      <text
-         x="390"
-         y="222"
-         fill="#000000"
-         font-family="Helvetica"
-         font-size="14px"
-         text-anchor="middle"
-         font-weight="bold"
-         id="text22"
-         style="line-height:0%">x</text>
-    </switch>
-  </g>
   <rect
      x="170"
      y="18"
@@ -137,39 +103,6 @@
      stroke="none"
      pointer-events="all"
      id="rect24" />
-  <g
-     transform="translate(2.6385354,-9.9156063)"
-     id="g26">
-    <switch
-       id="switch28">
-      <foreignObject
-         style="overflow: visible; text-align: left;"
-         pointer-events="none"
-         width="100%"
-         height="100%"
-         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-        <xhtml:div
-           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 28px; margin-left: 171px;">
-          <xhtml:div
-             style="box-sizing: border-box; font-size: 0; text-align: center; ">
-            <xhtml:div
-               style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">ct
- </xhtml:div>
-          </xhtml:div>
-        </xhtml:div>
-      </foreignObject>
-      <text
-         x="190"
-         y="32"
-         fill="#000000"
-         font-family="Helvetica"
-         font-size="14px"
-         text-anchor="middle"
-         font-weight="bold"
-         id="text30"
-         style="line-height:0%">ct</text>
-    </switch>
-  </g>
   <path
      d="M 90,328 370,48"
      fill="none"
@@ -196,7 +129,7 @@
        font-family="Helvetica"
        font-size="10px"
        id="text40"
-       style="line-height:0%">Minkowski-02.svg Dietrich Kracht 07.12.2021</text>
+       style="line-height:0%">Minkowski-02.svg Dietrich Kracht 10.12.2021</text>
   </g>
   <path
      d="m 66.33687,63.673731 280,279.999999"
@@ -222,7 +155,7 @@
    id="tspan906">2</tspan><tspan
    style="font-size:100%"
    dy="7"
-   id="tspan28">&lt;0</tspan></tspan> </text>
+   id="tspan28">&gt;0</tspan></tspan> </text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -248,7 +181,6 @@
    id="tspan1006"
    x="210.92043"
    y="77.33567"
-   sodipodi:role="line"
    style="font-size:16px">raumartig</tspan>
 	</text>
   <rect
@@ -267,7 +199,6 @@
        id="tspan2577"
        x="209.66501"
        y="334.06787"
-       sodipodi:role="line"
        style="font-size:16px">raumartig</tspan></text>
   <rect
      style="fill:#ffffff;fill-opacity:1;stroke:#0000f4;stroke-width:0.109606;stroke-linecap:square;stroke-opacity:0"
@@ -286,7 +217,6 @@
        id="tspan2589"
        x="-210.38945"
        y="38.948795"
-       sodipodi:role="line"
        style="font-size:16px">zeitartig</tspan></text>
   <rect
      style="fill:#ffffff;fill-opacity:1;stroke:#0000f4;stroke-width:0.109606;stroke-linecap:square;stroke-opacity:0"
@@ -305,7 +235,6 @@
        id="tspan2599"
        x="-208.50633"
        y="365.35648"
-       sodipodi:role="line"
        style="font-size:16px">zeitartig</tspan></text>
   <text
      xml:space="preserve"
@@ -317,7 +246,6 @@
        id="tspan2603"
        x="143.35204"
        y="317.89874"
-       sodipodi:role="line"
        style="font-size:16px">lichtartig</tspan></text>
   <text
      xml:space="preserve"
@@ -376,7 +304,7 @@
    id="tspan1402">2</tspan><tspan
    style="font-size:100%"
    dy="7"
-   id="tspan1404">&lt;0</tspan></tspan> </text>
+   id="tspan1404">&gt;0</tspan></tspan> </text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -392,7 +320,7 @@
    id="tspan99">2</tspan><tspan
    style="font-size:100%"
    id="tspan101"
-   dy="7">&gt;0</tspan></tspan> </text>
+   dy="7">&lt;0</tspan></tspan> </text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -410,7 +338,7 @@
    id="tspan8219">2</tspan><tspan
    style="font-size:100%"
    dy="7"
-   id="tspan8221">&lt;0</tspan></tspan> </text>
+   id="tspan8221">&gt;0</tspan></tspan> </text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -428,7 +356,7 @@
    id="tspan8309">2</tspan><tspan
    style="font-size:100%"
    dy="7"
-   id="tspan8311">&lt;0</tspan></tspan> </text>
+   id="tspan8311">&gt;0</tspan></tspan> </text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -444,7 +372,7 @@
    id="tspan181">2</tspan><tspan
    style="font-size:100%"
    id="tspan183"
-   dy="7">&gt;0</tspan></tspan> </text>
+   dy="7">&lt;0</tspan></tspan> </text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -460,7 +388,7 @@
    id="tspan189">2</tspan><tspan
    style="font-size:100%"
    id="tspan191"
-   dy="7">&gt;0</tspan></tspan> </text>
+   dy="7">&lt;0</tspan></tspan> </text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -476,7 +404,7 @@
    id="tspan197">2</tspan><tspan
    style="font-size:100%"
    id="tspan199"
-   dy="7">&gt;0</tspan></tspan> </text>
+   dy="7">&lt;0</tspan></tspan> </text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -541,4 +469,24 @@
    style="font-size:100%"
    id="tspan200"
    dy="7">=0</tspan></tspan> </text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-variant-east-asian:normal"
+     x="404.37106"
+     y="225.47453"
+     id="text3415"><tspan
+       id="tspan3413"
+       x="404.37106"
+       y="225.47453"
+       style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:16.00000038px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">x</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-variant-east-asian:normal"
+     x="190.32295"
+     y="17.703503"
+     id="text5635"><tspan
+       id="tspan5633"
+       x="190.32295"
+       y="17.703503"
+       style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:16.00000038px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">ct</tspan></text>
 </svg>
